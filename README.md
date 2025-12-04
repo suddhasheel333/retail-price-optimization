@@ -144,6 +144,3 @@ This project was developed as part of my data science portfolio to demonstrate p
 Suddhasheel  
 GitHub: [@suddhasheel333](https://github.com/suddhasheel333)
 
-## License
-
-This project is open source and available under the MIT License.
